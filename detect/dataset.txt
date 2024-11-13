@@ -1,0 +1,14 @@
+./dataset/14.png
+./dataset/9.png
+./dataset/12.png
+./dataset/5.png
+./dataset/8.png
+./dataset/2.png
+./dataset/3.png
+./dataset/6.png
+./dataset/4.png
+./dataset/11.png
+./dataset/13.png
+./dataset/7.png
+./dataset/10.png
+./dataset/1.png
